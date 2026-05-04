@@ -1,0 +1,129 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Crimson Thread",
+      "author": "Julian Vance",
+      "description": "An intricate web of secrets unravels in a small coastal town after a mysterious artifact is discovered.",
+      "category": "Story",
+      "available_quantity": 14,
+      "imageUrl": "https://i.ibb.co.com/6RM29rmN/1777902285285.png"
+    },
+    {
+      "id": 2,
+      "title": "Code of the Future",
+      "author": "Dr. Aris Thorne",
+      "description": "A comprehensive guide to next-generation programming paradigms and artificial intelligence.",
+      "category": "Tech",
+      "available_quantity": 32,
+      "imageUrl": "https://i.ibb.co.com/S4sy6hG4/1777902326667.png"
+    },
+    {
+      "id": 3,
+      "title": "Quantum Horizons",
+      "author": "Sarah Jenkins",
+      "description": "Exploring the boundaries of modern physics and the practical applications of quantum mechanics.",
+      "category": "Science",
+      "available_quantity": 8,
+      "imageUrl": "https://i.ibb.co.com/gMcWDhx9/1777902331004.png"
+    },
+    {
+      "id": 4,
+      "title": "Echoes of Eternity",
+      "author": "Marcus Aurelius",
+      "description": "A sweeping historical fiction epic following the rise and fall of a forgotten empire.",
+      "category": "Story",
+      "available_quantity": 21,
+      "imageUrl": "https://i.ibb.co.com/kVRZz1cn/1777902333765.png"
+    },
+    {
+      "id": 5,
+      "title": "Silicon Dreams",
+      "author": "Nina Patel",
+      "description": "The untold history of the microchip revolution and the pioneers who built the digital age.",
+      "category": "Tech",
+      "available_quantity": 45,
+      "imageUrl": "https://i.ibb.co.com/gZCbpNny/1777902340703.png"
+    },
+    {
+      "id": 6,
+      "title": "The Cosmic Web",
+      "author": "Dr. Liam Carter",
+      "description": "A fascinating journey through galaxy formation, dark matter, and the structure of the universe.",
+      "category": "Science",
+      "available_quantity": 15,
+      "imageUrl": "https://i.ibb.co.com/MyNzhsGQ/1777902340901.png"
+    },
+    {
+      "id": 7,
+      "title": "Shadows in the Mist",
+      "author": "Evelyn Cross",
+      "description": "A gripping thriller about a detective tracking a phantom thief through the fog-laden streets of London.",
+      "category": "Story",
+      "available_quantity": 11,
+      "imageUrl": "https://i.ibb.co.com/F4HmPgLM/1777902343701.png"
+    },
+    {
+      "id": 8,
+      "title": "Algorithms Unleashed",
+      "author": "David Chen",
+      "description": "Mastering the fundamental algorithms that power modern software and data structures.",
+      "category": "Tech",
+      "available_quantity": 50,
+      "imageUrl": "https://i.ibb.co.com/MkWm3tpr/1777902345245.png"
+    },
+    {
+      "id": 9,
+      "title": "Evolutionary Leaps",
+      "author": "Dr. Jane Goodall",
+      "description": "Tracing the remarkable genetic mutations that sparked sudden leaps in biological evolution.",
+      "category": "Science",
+      "available_quantity": 27,
+      "imageUrl": "https://i.ibb.co.com/B5YFBzyP/1777902348301.png"
+    },
+    {
+      "id": 10,
+      "title": "The Last Lighthouse",
+      "author": "Thomas Wade",
+      "description": "A heartwarming novel about an isolated lighthouse keeper who discovers a message in a bottle.",
+      "category": "Story",
+      "available_quantity": 9,
+      "imageUrl": "https://i.ibb.co.com/SwHwm834/1777902351399.png"
+    },
+    {
+      "id": 11,
+      "title": "Neural Networks Explained",
+      "author": "Alan Turing Jr.",
+      "description": "Deep learning demystified for developers looking to integrate machine learning into their projects.",
+      "category": "Tech",
+      "available_quantity": 38,
+      "imageUrl": "https://i.ibb.co.com/pBgQSKWB/1777902363025.png"
+    },
+    {
+      "id": 12,
+      "title": "The Physics of Time",
+      "author": "Carlo Rovelli",
+      "description": "Unraveling the deep mysteries of time, entropy, and how we experience the fourth dimension.",
+      "category": "Science",
+      "available_quantity": 18,
+      "imageUrl": "https://i.ibb.co.com/zVp9R0hK/1777902367117.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Story",
+      "slug": "story"
+    },
+    {
+      "id": 2,
+      "name": "Tech",
+      "slug": "tech"
+    },
+    {
+      "id": 3,
+      "name": "Science",
+      "slug": "science"
+    }
+  ]
+}
