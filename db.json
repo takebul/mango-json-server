@@ -7,6 +7,7 @@
       "description": "An intricate web of secrets unravels in a small coastal town after a mysterious artifact is discovered.",
       "category": "Story",
       "available_quantity": 14,
+      "discount": "20%",
       "imageUrl": "https://i.ibb.co.com/6RM29rmN/1777902285285.png"
     },
     {
@@ -16,6 +17,7 @@
       "description": "A comprehensive guide to next-generation programming paradigms and artificial intelligence.",
       "category": "Tech",
       "available_quantity": 32,
+      "discount": "12%",
       "imageUrl": "https://i.ibb.co.com/S4sy6hG4/1777902326667.png"
     },
     {
@@ -25,6 +27,7 @@
       "description": "Exploring the boundaries of modern physics and the practical applications of quantum mechanics.",
       "category": "Science",
       "available_quantity": 8,
+      "discount": "4%",
       "imageUrl": "https://i.ibb.co.com/gMcWDhx9/1777902331004.png"
     },
     {
@@ -34,6 +37,7 @@
       "description": "A sweeping historical fiction epic following the rise and fall of a forgotten empire.",
       "category": "Story",
       "available_quantity": 21,
+      "discount": "16%",
       "imageUrl": "https://i.ibb.co.com/kVRZz1cn/1777902333765.png"
     },
     {
@@ -43,6 +47,7 @@
       "description": "The untold history of the microchip revolution and the pioneers who built the digital age.",
       "category": "Tech",
       "available_quantity": 45,
+      "discount": "9%",
       "imageUrl": "https://i.ibb.co.com/MyNzhsGQ/1777902340901.png"
     },
     {
@@ -61,6 +66,7 @@
       "description": "A gripping thriller about a detective tracking a phantom thief through the fog-laden streets of London.",
       "category": "Story",
       "available_quantity": 11,
+      "discount": "50%",
       "imageUrl": "https://i.ibb.co.com/F4HmPgLM/1777902343701.png"
     },
     {
@@ -70,6 +76,7 @@
       "description": "Mastering the fundamental algorithms that power modern software and data structures.",
       "category": "Tech",
       "available_quantity": 50,
+      "discount": "32%",
       "imageUrl": "https://i.ibb.co.com/MkWm3tpr/1777902345245.png"
     },
     {
