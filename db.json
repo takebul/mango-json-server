@@ -86,6 +86,7 @@
       "description": "Tracing the remarkable genetic mutations that sparked sudden leaps in biological evolution.",
       "category": "Science",
       "available_quantity": 27,
+      "discount": "2%",
       "imageUrl": "https://i.ibb.co.com/B5YFBzyP/1777902348301.png"
     },
     {
@@ -95,6 +96,7 @@
       "description": "A heartwarming novel about an isolated lighthouse keeper who discovers a message in a bottle.",
       "category": "Story",
       "available_quantity": 9,
+      "discount": "-17%",
       "imageUrl": "https://i.ibb.co.com/SwHwm834/1777902351399.png"
     },
     {
@@ -104,6 +106,7 @@
       "description": "Deep learning demystified for developers looking to integrate machine learning into their projects.",
       "category": "Tech",
       "available_quantity": 38,
+      "discount": "23%",
       "imageUrl": "https://i.ibb.co.com/pBgQSKWB/1777902363025.png"
     },
     {
@@ -113,6 +116,7 @@
       "description": "Unraveling the deep mysteries of time, entropy, and how we experience the fourth dimension.",
       "category": "Science",
       "available_quantity": 18,
+      "discount": "-4%",
       "imageUrl": "https://i.ibb.co.com/zVp9R0hK/1777902367117.png"
     }
   ],
