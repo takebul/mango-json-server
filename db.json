@@ -136,5 +136,37 @@
       "name": "Science",
       "slug": "science"
     }
+  ],
+  "reviews": [
+    {
+      "review": "A profound masterpiece on the power of persistence. It beautifully illustrates that when you truly want something, the entire universe conspires to help you achieve it.",
+      "reviewer_name": "Elena Rossi",
+      "reviewer_position": "Creative Director"
+    },
+    {
+      "review": "The most practical guide to behavior change I’ve ever read. It strips away the fluff and focuses on the tiny, 1% improvements that lead to massive long-term results.",
+      "reviewer_name": "Marcus Chen",
+      "reviewer_position": "Performance Coach"
+    },
+    {
+      "review": "A hauntingly beautiful exploration of class, obsession, and the elusive nature of the American Dream. The prose is as sharp and shimmering as it was a century ago.",
+      "reviewer_name": "Sarah Jenkins",
+      "reviewer_position": "Literary Critic"
+    },
+    {
+      "review": "A brilliant, albeit dense, breakdown of the cognitive biases that govern our lives. It’s essential reading for anyone who wants to understand why we make the choices we do.",
+      "reviewer_name": "Dr. Aris Thorne",
+      "reviewer_position": "Behavioral Economist"
+    },
+    {
+      "review": "An absolute titan of world-building. It blends politics, religion, and ecology into a complex narrative that feels more relevant to our modern climate every single day.",
+      "reviewer_name": "Leo Vance",
+      "reviewer_position": "Sci-Fi Novelist"
+    },
+    {
+      "review": "This isn't just about spreadsheets; it’s about the psychology behind our relationship with wealth. It offers a refreshingly human take on a traditionally dry subject.",
+      "reviewer_name": "Maya Gupta",
+      "reviewer_position": "Financial Advisor"
+    }
   ]
 }
